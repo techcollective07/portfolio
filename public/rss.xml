@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Bahati Basesela</title>
+        <link>https://www.avneesh.tech/</link>
+        <description>I am a Senior Software Engineer with 5+ years of experience building scalable applications, AI/ML solutions, backend services, and cloud infrastructure. Experienced in designing production-ready APIs, data pipelines, machine learning workflows, and deployment automation. Strong hands-on expertise in Python, Generative AI, LLMs, Machine Learning, FastAPI, Databricks, SQL, AWS/Azure, Docker, Kubernetes, and CI/CD. Comfortable working across software engineering, AI engineering, data engineering, and DevOps to deliver reliable, scalable, and business-focused solutions.Senior Software Engineer with 5+ years of experience building scalable applications, AI/ML solutions, backend services, and cloud infrastructure. Experienced in designing production-ready APIs, data pipelines, machine learning workflows, and deployment automation. Strong hands-on expertise in Python, Generative AI, LLMs, Machine Learning, FastAPI, Databricks, SQL, AWS/Azure, Docker, Kubernetes, and CI/CD. Comfortable working across software engineering, AI engineering, data engineering, and DevOps to deliver reliable, scalable, and business-focused solutions.</description>
+        <lastBuildDate>Fri, 16 Dec 2022 18:00:05 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <!-- <image>
+            <title>Bahati Basesela</title>
+            <url>https://www.avneesh.tech/About.png</url>
+            <link>https://www.avneesh.tech/</link>
+        </image> -->
+        <copyright>All rights reserved, Bahati Basesela</copyright>
+        <category>Technology</category>
+        <category>Programming</category>
+        <category>Web Development</category>
+        <category>Web3 development</category>
+        <category>Blogger</category>
+        <category>Bahati Basesela</category>
+    </channel>
+</rss>
