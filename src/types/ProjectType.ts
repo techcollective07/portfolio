@@ -2,7 +2,7 @@ interface ProjectType {
   image: string;
   name: string;
   date?: string;
-  tech: string[];
+  tech?: string[];
   links: {
     GitHub?: string;
     Live?: string;

@@ -1,5 +1,5 @@
 import Layout from '@/Layout/Main.Layout';
-import { About, Blog, Contact, Intro, Projects } from '@/components';
+import { About, Blog, Contact, Experience, Intro, Projects } from '@/components';
 import data from '@/data';
 import { PostType } from '@/types';
 import getPosts from '@/utils/getPosts';
@@ -15,6 +15,7 @@ const Home: FC<IHomeProps> = ({ Posts }) => {
     <Layout>
       <Intro />
       <About />
+      <Experience />
       <Projects />
       <Blog Posts={Posts} />
       <Contact />

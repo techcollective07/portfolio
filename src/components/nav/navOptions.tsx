@@ -3,7 +3,10 @@ const navOptions = [
     name: 'About',
     href: 'about',
   },
-
+  {
+    name: 'Experience',
+    href: 'experience',
+  },
   {
     name: 'Work',
     href: 'work',
